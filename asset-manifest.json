@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f13d827.css",
+    "main.js": "/static/js/main.3e818937.js",
+    "static/media/Imagen.png": "/static/media/Imagen.b80a55a2b67daaa5f601.png",
+    "static/media/pertina.png": "/static/media/pertina.ab8a28859e86833755b7.png",
+    "static/media/hi-blinds-icon.ico": "/static/media/hi-blinds-icon.38881a8dba4998c997e0.ico",
+    "static/media/Imagen-tela02.png": "/static/media/Imagen-tela02.7bc8643c5e8cb557345b.png",
+    "static/media/Imagen-tela04.png": "/static/media/Imagen-tela04.dbd3281319a05712ee80.png",
+    "static/media/Imagen-tela03.png": "/static/media/Imagen-tela03.8def902e8d78fc11a0bd.png",
+    "static/media/Imagen-tela01.png": "/static/media/Imagen-tela01.35fc85adc88f52cfff29.png",
+    "static/media/close-svgrepo-com.svg": "/static/media/close-svgrepo-com.3679f386ffd792ab51f2aac881e12083.svg",
+    "index.html": "/index.html",
+    "static/media/menu-alt-svgrepo-com.svg": "/static/media/menu-alt-svgrepo-com.341c26dcde64c7d7582eaae0a5b95b09.svg",
+    "main.1f13d827.css.map": "/static/css/main.1f13d827.css.map",
+    "main.3e818937.js.map": "/static/js/main.3e818937.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f13d827.css",
+    "static/js/main.3e818937.js"
+  ]
+}
